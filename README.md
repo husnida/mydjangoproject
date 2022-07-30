@@ -1,0 +1,2 @@
+# mydjangoproject
+code of mydjangoproject
